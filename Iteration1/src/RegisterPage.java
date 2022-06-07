@@ -10,6 +10,9 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
+/**
+ * @author kemeria
+ */
 public class RegisterPage extends JDialog{
     private JTextField txtName;
     private JTextField txtEmail;

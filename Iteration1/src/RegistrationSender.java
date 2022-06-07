@@ -2,6 +2,9 @@ import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+/**
+ * @author kemeria
+ */
 public class RegistrationSender extends JFrame{
     private JButton cancelButton;
     private JButton registerButton;
