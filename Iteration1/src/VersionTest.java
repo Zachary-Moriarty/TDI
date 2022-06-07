@@ -1,6 +1,9 @@
 import junit.framework.Assert;
-import org.junit.Before;
 import org.junit.Test;
+
+/**
+ * @author Bohdan Ivchenko
+ */
 public class VersionTest {
 
     @Test

@@ -4,8 +4,10 @@ import org.junit.Test;
 
 import java.util.ArrayList;
 
-import static org.junit.Assert.*;
 
+/**
+ * @author Bohdan Ivchenko
+ */
 public class ThingListTest {
 
     private ThingList TestList;
