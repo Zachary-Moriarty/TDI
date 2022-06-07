@@ -2,9 +2,11 @@
 import junit.framework.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import static org.junit.Assert.*;
 
 
+/**
+ * @author Bohdan Ivchenko
+ */
 public class ThingTest {
 
     private Thing TestThing;
