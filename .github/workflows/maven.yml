@@ -25,5 +25,3 @@ jobs:
     - name: Build with Maven
       run: mvn --batch-mode --update-snapshots package
       
-- name: action-maven
-  uses: comchangs/action-maven@v0.4-beta
